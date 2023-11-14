@@ -9,4 +9,4 @@ This repository showcases a collection of data analysis projects assigned by Fre
 
 4. [Page View Time Series Visualizer: ](https://github.com/Maryam0330/Data-Analysis-with-Python-Projects/tree/main/Project%204%3A%20Page%20View%20Time%20Series%20Visualizer) This project visualizes time series data using a line chart, bar chart, and box plots. Using Pandas, Matplotlib, and Seaborn to visualize a dataset containing the number of page views each day on the freeCodeCamp.org forum from 2016-05-09 to 2019-12-03. 
 
-5. [Sea Level Predictor:](https://github.com/Maryam0330/Data-Analysis-with-Python-Projects/tree/main/Project%205:%20Sea%20Level%20Predictor) This project analyzes a dataset of the global average sea level change since 1880. You will use the data to predict the sea level change through year 2050.
+5. [Sea Level Predictor:](https://github.com/Maryam0330/Data-Analysis-with-Python-Projects/tree/main/Project%205:%20Sea%20Level%20Predictor) This project analyzes a dataset of the global average sea level change since 1880. It then uses the data to predict the sea level change through year 2050.
